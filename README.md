@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gupta</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <IMG align ="right" width =400 src= "https://github.com/DhruvGupta2004/DhruvGupta2004/assets/112793698/903e5286-36b1-4414-b80c-327e22cd1994)](https://github.com/rudrabarad/Gifs" >
 
